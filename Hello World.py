@@ -1,5 +1,5 @@
 print("Hello World")
-print("나의 이름은 장민우 내 이름 장민우 나는 왜 여기 학교를 나왔을까? ㅎ헤헤")
+print("제 닉네임은 skipper 입니다.")
 print(1)
 print(2)
 print(3)
